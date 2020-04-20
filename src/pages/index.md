@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 banner:
   title: JEFFERS AIR CONDITIONING AND HEATING
   subtitle: Providing HVAC services to the greater Phoenix Metropolitan area.
