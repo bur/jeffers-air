@@ -16,14 +16,14 @@ sections:
       - title: Repairs
         icon:
           enabled: true
-          icon: fa-tools
+          icon: fa-wrench
           style: style1
         description: When your A/C stops in the peak of the summer, you need your system
           fixed immediately, and by an export you can trust not to cut corners.
       - title: Tune-ups
         icon:
           enabled: true
-          icon: fa-temperature-low
+          icon: fa-thermometer
           style: style2
         description: AC systems are put to work in the Arizona heat year after year.
           Keeping your system maintained is a key prevention from costly repairs
