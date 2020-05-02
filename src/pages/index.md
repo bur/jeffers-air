@@ -2,7 +2,8 @@
 title: Home
 banner:
   title: JEFFERS AIR CONDITIONING AND HEATING
-  subtitle: Providing A/C and Heating services to the greater Phoenix Metropolitan area.
+  subtitle: Providing A/C and Heating services to the East Valley and Phoenix
+    Metropolitan area.
   actions:
     - label: Contact us
       url: /contact-us
@@ -27,8 +28,9 @@ sections:
           style: style2
         description: A/C and heating systems are put to work in the Arizona heat year
           after year. Keeping your system maintained is a key prevention from
-          costly repairs in the future. Schedule a tune-up service with our HVAC
-          experts to ensure you don't have any unexpected emergencies later.
+          costly repairs in the future. Schedule a tune-up service with our A/C
+          and heating experts to ensure you don't have any unexpected
+          emergencies later.
       - title: New Installations
         icon:
           enabled: true
