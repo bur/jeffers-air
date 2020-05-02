@@ -1,7 +1,7 @@
 {
-  "title": "Jeffers AC & Heating",
+  "title": "Jeffers Air",
   "landing_template": "home",
-  "palette": "blue",
+  "palette": "green",
   "palettes": {
     "blue": {
       "sass": {
