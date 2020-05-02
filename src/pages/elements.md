@@ -1,6 +1,6 @@
 ---
-title: Elements
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: Schedule an Appointment
+subtitle: Schedule an appointment today!
 menus:
   main:
     title: Elements
