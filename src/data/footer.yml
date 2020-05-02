@@ -1,12 +1,12 @@
 about:
   enabled: true
-  title: Integer vitae sed feugiat
+  title: Get in touch today
   text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
+    We're always here to help with any of your air conditioning and heating needs,
+    reach out today.
   actions:
-    - label: Learn More
-      url: /no-sidebar
+    - label: Contact
+      url: /contact-us
       is_primary: false
       is_scrolly: false
 contact_methods:
