@@ -16,20 +16,18 @@ contact_methods:
       title: Address
       icon: fa-map-marker
       text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+        Jeffers Air    
+        Mesa, AZ 85208
   methods_col2:
     - type: contact_with_text
       title: Phone
       icon: fa-phone
-      text: (000) 000-0000
+      text: (480) 332-8642
     - type: contact_with_link
       title: Email
       icon: fa-envelope-o
-      text: information@untitled.tld
+      text: jeffersair@gmail.com
       url: '#'
 copyright:
   enabled: true
-  text: '&copy; Untitled. All rights reserved.'
+  text: '&copy; Jeffers Air Conditioning and Heating. All rights reserved.'
