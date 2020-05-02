@@ -1,21 +1,24 @@
 ---
+excerpt: Sed tristique purus vitae volutpat commodo suscipit amet sed nibh.
+  Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo
+  suscipit ullamcorper sed blandit lorem ipsum dolore.
+show_in_sidebar: true
+show_in_home_posts: false
+alt_img: images/pic09.jpg
+date: 2017-04-01
 title: Contact Us
-subtitle: Contact us today to schedule an appointment for your next service, install, 
-excerpt: >-
-  Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a
-  ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit
-  ullamcorper sed blandit lorem ipsum dolore.
+subtitle: Contact us today to schedule an appointment for your next service, install,
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: '#'
-alt_img: images/pic09.jpg
+  url: "#"
 sidebar:
   enabled: false
   side: left
-date: '2017-04-01'
-show_in_home_posts: false
-show_in_sidebar: true
+menus:
+  layouts:
+    title: Contact Us
+    weight: 2
 template: page
 ---
 
