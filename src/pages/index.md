@@ -41,6 +41,21 @@ sections:
           your family and your budget. We accept all major credit cards and we
           offer financing options that best meet your budget.
     component: Features
+  - type: contactus
+    section_id: contactus
+    title: Ultrices ante sagittis nunc senectus libero netus
+    actions:
+      - label: How it works
+        url: /contact-us
+        is_primary: false
+        is_scrolly: false
+    text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
+      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
+      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
+      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
+      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
+      lorem feugiat. In fringilla diet consectetur.
+    component: ContactForm
 menus:
   main:
     title: Home

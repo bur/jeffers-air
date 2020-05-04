@@ -6,6 +6,7 @@ import Header from './Header';
 import Menu from './Menu';
 import Posts from './Posts';
 import Layout from './Layout';
+import ContactForm from './ContactForm';
 
 export {
     Banner,
@@ -15,7 +16,8 @@ export {
     Header,
     Menu,
     Posts,
-    Layout
+    Layout,
+    ContactForm
 };
 
 export default {
@@ -26,5 +28,6 @@ export default {
     Header,
     Menu,
     Posts,
-    Layout
+    Layout,
+    ContactForm
 };
